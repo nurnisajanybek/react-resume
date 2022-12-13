@@ -4,7 +4,7 @@ import Row from "react-bootstrap/Row";
 
 function Education() {
   return (
-    <Row xs={2} md={3} className="g-4" class="mx-auto">
+    <Row xs={2} md={3} className="g-4 stylerow" class="mx-auto">
       {["Dark"].map((variant) => (
         <Card
           bg={variant.toLowerCase()}
@@ -14,7 +14,7 @@ function Education() {
             width: "25rem",
             height: "14rem",
             marginTop: "10%",
-            marginLeft: "10%",
+            marginLeft: "15%",
           }}
           className="mb-2"
         >
@@ -40,7 +40,7 @@ function Education() {
             width: "25rem",
             height: "14rem",
             marginTop: "10%",
-            marginLeft: "10%",
+            marginLeft: "15%",
           }}
           className="mb-2"
         >
@@ -64,7 +64,7 @@ function Education() {
             width: "25rem",
             height: "14rem",
             marginTop: "10%",
-            marginLeft: "10%",
+            marginLeft: "15%",
           }}
           className="mb-2"
         >
@@ -88,7 +88,7 @@ function Education() {
             width: "25rem",
             height: "14rem",
             marginTop: "10%",
-            marginLeft: "10%",
+            marginLeft: "15%",
           }}
           className="mb-2"
         >
