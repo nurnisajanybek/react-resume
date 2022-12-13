@@ -94,3 +94,30 @@
   width: 10%;
   margin-left: 10%;
 }
+
+@media all and (max-width: 1024px) {
+  .personalinfo {
+    display: flex;
+    flex-direction: column;
+  }
+  .personalinfo__links {
+    display: none;
+  }
+  .adap {
+    display: none;
+  }
+}
+
+@media all and (max-width: 425px) {
+  .personalinfo__left-txt {
+    font-size: small;
+  }
+  .btn {
+    display: none;
+  }
+}
+@media all and (max-width: 320px) {
+  button {
+    display: none;
+  }
+}

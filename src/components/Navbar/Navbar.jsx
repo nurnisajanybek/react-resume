@@ -70,7 +70,7 @@ function NavBar() {
               Awards
             </Link>
           </Nav>
-          <Form className="d-flex">
+          <Form className="d-flex search">
             <Form.Control
               type="search"
               placeholder="Search"

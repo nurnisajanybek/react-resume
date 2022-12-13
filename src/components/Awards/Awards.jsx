@@ -129,7 +129,7 @@ function Awards() {
             width: "10rem",
             height: "7rem",
             marginTop: "10%",
-            marginLeft: "10%",
+            marginLeft: "11%",
           }}
         >
           <Card.Header
@@ -149,7 +149,7 @@ function Awards() {
             width: "10rem",
             height: "7rem",
             marginTop: "10%",
-            marginLeft: "10%",
+            marginLeft: "11%",
           }}
         >
           <Card.Header
@@ -169,7 +169,7 @@ function Awards() {
             width: "10rem",
             height: "7rem",
             marginTop: "10%",
-            marginLeft: "10%",
+            marginLeft: "11%",
           }}
         >
           <Card.Header
@@ -189,7 +189,7 @@ function Awards() {
             width: "10rem",
             height: "7rem",
             marginTop: "10%",
-            marginLeft: "10%",
+            marginLeft: "11%",
           }}
         >
           <Card.Header
