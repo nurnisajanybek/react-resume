@@ -1,0 +1,96 @@
+.btn-dowload {
+  background-color: hotpink;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: 2%;
+  width: 50%;
+}
+
+.personalinfo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  background-color: #212529;
+  padding: 3%;
+  width: 90%;
+  margin: 10% auto;
+}
+.personalinfo__right {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.personalinfo__right img {
+  width: 50%;
+}
+
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: 2%;
+  width: 50%;
+}
+.btn:hover {
+  background-color: RoyalBlue;
+}
+.personalinfo__left h1 {
+  color: hotpink;
+}
+
+.personalinfo__left {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.personalinfo__left-each {
+  display: flex;
+  flex-direction: row;
+  padding: 2%;
+  width: 100%;
+}
+.personalinfo__left-row p {
+  display: flex;
+  flex-direction: row;
+}
+.personalinfo__left-txt {
+  color: white;
+}
+.personalinfo__left-column {
+  display: flex;
+  flex-direction: column;
+}
+.personalinfo__left-q {
+  display: flex;
+  flex-direction: row;
+}
+.question {
+  color: hotpink;
+}
+.answer {
+  color: white;
+}
+.personalinfo__left-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.contacts__first {
+  color: hotpink;
+}
+.contacts__second {
+  color: white;
+}
+/* links start */
+.personalinfo__links {
+  width: 10%;
+  margin-left: 10%;
+}
